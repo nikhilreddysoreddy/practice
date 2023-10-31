@@ -1,1 +1,4 @@
 hey there..g!!
+take user inputs 
+compute them 
+print the result
